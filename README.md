@@ -16,4 +16,11 @@ ________________________________________________________________________________
 ****xBet Viewer**** est actuellement en cours de développement, mais il est ouvert à tous pour le tester. Cela permet à la communauté des parieurs de fournir des retours et des suggestions pour améliorer encore plus l'outil. En offrant un accès à cette phase de test, l'équipe derrière 1xBet Predator cherche à impliquer les utilisateurs dans le processus de développement et à s'assurer que l'outil répond aux besoins et aux attentes de la communauté des parieurs sportifs.
 ![Capture d'écran 2024-03-02 142311](https://github.com/boris-Olinga/1xBet-Predator/assets/109936676/9ed07c46-5adb-4241-824a-8682be8966b9)
 
-Téléchargez 1xBet Viewer en suivant le lien ci-dessous : [lien de téléchargement].
+*** Téléchargez 1xBet Viewer en suivant le lien ci-dessous : [lien de téléchargement].***
+
+
+
+
+
+https://github.com/boris-Olinga/1xBet-Predator/assets/109936676/a771ca69-a8d6-4fb3-99f3-a62e9fa687a8
+
