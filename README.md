@@ -1,3 +1,4 @@
+![Predator](https://github.com/boris-Olinga/1xBet-Predator/assets/109936676/d9dbb23a-c7f6-42a6-9c34-267e23e91714)
 
 **1xBet Predator** est une suite de logiciels conçue pour les parieurs sportifs, visant à automatiser et optimiser leur expérience de paris. Cette suite propose une gamme d'outils destinés à aider les parieurs dans leur processus de prise de décision, en fournissant des analyses approfondies, des statistiques pertinentes, des conseils sur les paris et d'autres fonctionnalités visant à maximiser les chances de succès. En combinant des algorithmes sophistiqués avec une interface conviviale, 1xBet Predator vise à offrir une solution complète pour les parieurs cherchant à améliorer leurs performances et à tirer le meilleur parti de leurs paris sportifs.
 La suite est principalement composée de deux outils essentiels :
